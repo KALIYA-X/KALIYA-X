@@ -4,9 +4,9 @@
 
 <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/SUNNY-LK">
+    <a href="https://github.com/KALIYA-X">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+AM+MR-+SUNNY%20+%20OFFICIAL+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+AM+KALIYA%20+%20X+..."
             alt="Typing SVG"
         />
     </a>
@@ -15,5 +15,5 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=SUNNY-LK&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=https://telegra.ph/file/b24533a06d229415fcd18.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=SUNNY_OFFICIAL&github=SUNNY-LK&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=KALIYA-X&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=https://raw.githubusercontent.com/KALIYA-X/KALIYA-X/main/welcome.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=KALIYA-X&github=KALIYA-X&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
