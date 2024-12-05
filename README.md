@@ -15,5 +15,5 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=KALIYA-X&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=https://raw.githubusercontent.com/KALIYA-X/KALIYA-X-DATABASE/refs/heads/main/KALIYA-X.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=KALIYA-X&github=KALIYA-X&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=KALIYA-X&description=Hi,%20Welcome%20To%20My%20Profile%20💝&image=?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=KALIYA-X&github=KALIYA-X&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
